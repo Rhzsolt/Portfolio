@@ -7,3 +7,5 @@ Most ez elmegy-e
 Hozzáírás de github módosulása után
 
 Tanulunk tovább 2.30
+
+És mégtovább
